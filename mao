@@ -912,7 +912,907 @@
         {
             "group": "港澳台海外",
             "channels": [
-                {
+                {{
+    "live": [
+        {
+            "itemid": "uid0000",
+            "name": "民視",
+            "num": "00001",
+            "urllist": "rtmp://219.80.97.25/sat/tv051"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視",
+            "num": "00002",
+            "urllist": "rtmp://219.80.97.25/sat/tv071"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視",
+            "num": "00003",
+            "urllist": "rtmp://219.80.97.25/sat/tv091"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視",
+            "num": "00004",
+            "urllist": "rtmp://219.80.97.25/sat/tv111"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00005",
+            "urllist": "rtmp://219.80.97.25/sat/tv551"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS歡樂",
+            "num": "00006",
+            "urllist": "rtmp://219.80.97.25/sat/tv421"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經新聞",
+            "num": "00007",
+            "urllist": "rtmp://219.80.97.25/sat/tv571"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森超視",
+            "num": "00008",
+            "urllist": "rtmp://219.80.97.25/sat/tv521"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來育樂",
+            "num": "00009",
+            "urllist": "rtmp://219.80.97.25/sat/tv701"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來體育",
+            "num": "00010",
+            "urllist": "rtmp://219.80.97.25/sat/tv721"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN1",
+            "num": "00011",
+            "urllist": "rtmp://219.80.97.25/sat/tv731"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN2",
+            "num": "00012",
+            "urllist": "rtmp://219.80.97.25/sat/tv741"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來日本",
+            "num": "00013",
+            "urllist": "rtmp://219.80.97.25/sat/tv771"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MOMO綜合",
+            "num": "00014",
+            "urllist": "rtmp://219.80.97.25/sat/tv761"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育1",
+            "num": "00015",
+            "urllist": "rtmp://219.80.97.25/sat/md011"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育2",
+            "num": "00016",
+            "urllist": "rtmp://219.80.97.25/sat/md021"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯網球",
+            "num": "00017",
+            "urllist": "rtmp://219.80.97.25/sat/md031"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育3",
+            "num": "00018",
+            "urllist": "rtmp://219.80.97.25/sat/md041"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN2",
+            "num": "00019",
+            "urllist": "rtmp://219.80.97.25/sat/md051"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視",
+            "num": "00020",
+            "urllist": "rtmp://59.124.75.157/sat/tv051"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視",
+            "num": "00021",
+            "urllist": "rtmp://59.124.75.157/sat/tv071"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視",
+            "num": "00022",
+            "urllist": "rtmp://59.124.75.157/sat/tv091"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視",
+            "num": "00023",
+            "urllist": "rtmp://59.124.75.157/sat/tv111"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00024",
+            "urllist": "rtmp://59.124.75.157/sat/tv551"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS歡樂",
+            "num": "00025",
+            "urllist": "rtmp://59.124.75.157/sat/tv421"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經新聞",
+            "num": "00026",
+            "urllist": "rtmp://59.124.75.157/sat/tv571"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森超視",
+            "num": "00027",
+            "urllist": "rtmp://59.124.75.157/sat/tv521"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來育樂",
+            "num": "00028",
+            "urllist": "rtmp://59.124.75.157/sat/tv701"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來體育",
+            "num": "00029",
+            "urllist": "rtmp://59.124.75.157/sat/tv721"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN1",
+            "num": "00030",
+            "urllist": "rtmp://59.124.75.157/sat/tv731"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN2",
+            "num": "00031",
+            "urllist": "rtmp://59.124.75.157/sat/tv741"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來日本",
+            "num": "00032",
+            "urllist": "rtmp://59.124.75.157/sat/tv771"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MOMO綜合",
+            "num": "00033",
+            "urllist": "rtmp://59.124.75.157/sat/tv761"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育1",
+            "num": "00034",
+            "urllist": "rtmp://59.124.75.157/sat/md011"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育2",
+            "num": "00035",
+            "urllist": "rtmp://59.124.75.157/sat/md021"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯網球",
+            "num": "00036",
+            "urllist": "rtmp://59.124.75.157/sat/md031"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育3",
+            "num": "00037",
+            "urllist": "rtmp://59.124.75.157/sat/md041"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN2",
+            "num": "00038",
+            "urllist": "rtmp://59.124.75.157/sat/md051"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視",
+            "num": "00039",
+            "urllist": "rtmp://59.124.75.138/sat/tv051"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視",
+            "num": "00040",
+            "urllist": "rtmp://59.124.75.138/sat/tv071"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視",
+            "num": "00041",
+            "urllist": "rtmp://59.124.75.138/sat/tv091"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視",
+            "num": "00042",
+            "urllist": "rtmp://59.124.75.138/sat/tv111"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00043",
+            "urllist": "rtmp://59.124.75.138/sat/tv551"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS歡樂",
+            "num": "00044",
+            "urllist": "rtmp://59.124.75.138/sat/tv421"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經新聞",
+            "num": "00045",
+            "urllist": "rtmp://59.124.75.138/sat/tv571"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森超視",
+            "num": "00046",
+            "urllist": "rtmp://59.124.75.138/sat/tv521"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來育樂",
+            "num": "00047",
+            "urllist": "rtmp://59.124.75.138/sat/tv701"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來體育",
+            "num": "00048",
+            "urllist": "rtmp://59.124.75.138/sat/tv721"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN1",
+            "num": "00049",
+            "urllist": "rtmp://59.124.75.138/sat/tv731"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN2",
+            "num": "00050",
+            "urllist": "rtmp://59.124.75.138/sat/tv741"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "緯來日本",
+            "num": "00051",
+            "urllist": "rtmp://59.124.75.138/sat/tv771"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MOMO綜合",
+            "num": "00052",
+            "urllist": "rtmp://59.124.75.138/sat/tv761"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育1",
+            "num": "00053",
+            "urllist": "rtmp://59.124.75.138/sat/md011"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育2",
+            "num": "00054",
+            "urllist": "rtmp://59.124.75.138/sat/md021"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "博斯網球",
+            "num": "00055",
+            "urllist": "rtmp://59.124.75.138/sat/md031"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTA體育3",
+            "num": "00056",
+            "urllist": "rtmp://59.124.75.138/sat/md041"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELEVEN2",
+            "num": "00057",
+            "urllist": "rtmp://59.124.75.138/sat/md051"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "阿里郎頻道",
+            "num": "00058",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "德國之聲",
+            "num": "00059",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live071&nid=226"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "ELTV生活英語",
+            "num": "00060",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "LiveABC互動英語",
+            "num": "00061",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "LUXE TV",
+            "num": "00062",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live121&nid=175"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "MOMO親子",
+            "num": "00063",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "SBN全球財經",
+            "num": "00064",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live060&nid=224"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00065",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live072&nid=129"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "美國之音",
+            "num": "00066",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv03&nid=86"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立綜合",
+            "num": "00067",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live207&nid=169"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立iNEWS",
+            "num": "00068",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live089&nid=229"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立iNEWS",
+            "num": "00069",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxwinews"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立LIVE",
+            "num": "00070",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=slxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00071",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live114&nid=234"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00072",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=dsxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經新聞",
+            "num": "00073",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live019&nid=211"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森財經新聞",
+            "num": "00074",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=dscjxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森購物一",
+            "num": "00075",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森購物二",
+            "num": "00076",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live046&nid=174"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天全民最大黨",
+            "num": "00077",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live076&nid=248"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天新聞",
+            "num": "00078",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv009&nid=30"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天新聞",
+            "num": "00079",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=ztxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天美食旅遊",
+            "num": "00080",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視",
+            "num": "00081",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv040&nid=4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視新聞",
+            "num": "00082",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv074&nid=33"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "亞洲旅遊",
+            "num": "00083",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "人間衛視",
+            "num": "00084",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live008&nid=210"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "公視戲劇",
+            "num": "00085",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv042&nid=7"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "半島國際新聞",
+            "num": "00086",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視",
+            "num": "00087",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv041&nid=6"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視新聞",
+            "num": "00088",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv052&nid=34"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華語戲劇",
+            "num": "00089",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華語綜藝",
+            "num": "00090",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "國會頻道1",
+            "num": "00091",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv084&nid=170"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "國會頻道2",
+            "num": "00092",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv085&nid=171"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大愛電視",
+            "num": "00093",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live007&nid=209"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "好消息2",
+            "num": "00094",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv17&nid=8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "客家電視",
+            "num": "00095",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv043&nid=107"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "新唐人亞太",
+            "num": "00096",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "時尚運動Ｘ",
+            "num": "00097",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv014&nid=69"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "智林體育",
+            "num": "00098",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視",
+            "num": "00099",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視台灣",
+            "num": "00100",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視影劇",
+            "num": "00101",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv09&nid=24"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視新聞",
+            "num": "00102",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv13&nid=31"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視旅遊",
+            "num": "00103",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視第一",
+            "num": "00104",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視綜藝",
+            "num": "00105",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv004&nid=16"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "滾動力",
+            "num": "00106",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live012&nid=249"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "愛爾達生活旅遊",
+            "num": "00107",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "豬哥亮歌廳秀",
+            "num": "00108",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv006&nid=113"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "精選動漫",
+            "num": "00109",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live024&nid=204"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "經典卡通",
+            "num": "00110",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live022&nid=202"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "經典電影",
+            "num": "00111",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live021&nid=201"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "金光布袋戲",
+            "num": "00112",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live144&nid=236"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "寰宇新聞",
+            "num": "00113",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=hyxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00114",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=55tvbs"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00115",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=56tvbs"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視新聞",
+            "num": "00116",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=zsxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視新聞",
+            "num": "00117",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=tsxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視新聞",
+            "num": "00118",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=hsxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視新聞",
+            "num": "00119",
+            "urllist": "http://for40255.sytes.net:8099/tv/iptv/live.php?id=msxw"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台灣",
+            "num": "00120",
+            "urllist": "http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333290/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立都會",
+            "num": "00121",
+            "urllist": "http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333300/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森戲劇",
+            "num": "00122",
+            "urllist": "http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333540/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "衛視中文",
+            "num": "00123",
+            "urllist": "http://easy_001.ztpfuoodzsthwn.xyz:8888/mylive/103/333660/index.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "蠟筆小新",
+            "num": "00124",
+            "urllist": "http://111.6.244.41:80/tx.hls.huya.com/src/1423787878-1423787878-6115122372451237888-2847699212-10057-A-0-1-imgplus.m3u8"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "民視",
+            "num": "00125",
+            "urllist": "http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "台視",
+            "num": "00126",
+            "urllist": "http://50.7.218.42:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&ct=17874&tsum=95f1742d36f959fe6e241587a4f8e970"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "公視",
+            "num": "00127",
+            "urllist": "http://50.7.218.42:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&ct=18336&tsum=ea5304d5140e9a3d2a32aece896feeed"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視經典",
+            "num": "00128",
+            "urllist": "http://50.7.218.42:8278/zhongshi_twn/playlist.m3u8?tid=mffe9aaf8765f&ct=18335&tsum=bcdd7a2ce4a5498b1449cb26a01150c0"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中視新聞",
+            "num": "00129",
+            "urllist": "http://50.7.218.42:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "大愛",
+            "num": "00130",
+            "urllist": "http://50.7.218.42:8278/daai_twn/playlist.m3u8?tid=m22178fccc70212656308&ct=17874&tsum=68bbc63cc5cb649ef5df75b1f0296336"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "華視",
+            "num": "00131",
+            "urllist": "http://50.7.218.42:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&ct=18335&tsum=9b0d2efb292253075aa4ec25cc439b81"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "探索頻道",
+            "num": "00132",
+            "urllist": "http://50.7.218.42:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "探索頻道",
+            "num": "00133",
+            "urllist": "http://50.7.218.42:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "HBO溫馨家庭",
+            "num": "00134",
+            "urllist": "http://50.7.218.42:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "動物星球",
+            "num": "00135",
+            "urllist": "http://50.7.218.42:8278/animalplanet_twn/playlist.m3u8?tid=m4da2c053371613331372&ct=17874&tsum=4481f502bb91c2c67964feecfbc4b702"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森幼幼",
+            "num": "00136",
+            "urllist": "http://50.7.218.42:8278/yoyo_twn/playlist.m3u8?tid=m84c9b210bc7f11269156&ct=17874&tsum=51340c8fb7ca02ab978ee0791843501d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大第一",
+            "num": "00137",
+            "urllist": "http://50.7.218.42:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&ct=17874&tsum=028ad819cd9a0f949a043d652fa3e164"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大娛樂",
+            "num": "00138",
+            "urllist": "http://50.7.218.42:8278/badaentertain/playlist.m3u8?tid=m6f7aed1b4260&ct=18335&tsum=fd808db00f6ca5c51dd3de7d3e214287"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大綜合",
+            "num": "00139",
+            "urllist": "http://50.7.218.42:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "八大戲劇",
+            "num": "00140",
+            "urllist": "http://50.7.218.42:8278/badadrama/playlist.m3u8?tid=m4970c4e1b988&ct=18335&tsum=20cb1d15d4e116ab9e44edb542cf51a5"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立台灣",
+            "num": "00141",
+            "urllist": "http://50.7.218.42:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "三立綜合",
+            "num": "00142",
+            "urllist": "http://50.7.218.42:8278/sanlizhonghe/playlist.m3u8?tid=m3362167a08a014596868&ct=17874&tsum=4472a7c943b67bf52fe5e836ca9f3b6b"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天綜合",
+            "num": "00143",
+            "urllist": "http://50.7.218.42:8278/ctizhonghe/playlist.m3u8?tid=m85005aeec85b14021104&ct=17874&tsum=69f19f4b12ab79d2ee683b28cdb1c8ca"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天娛樂",
+            "num": "00144",
+            "urllist": "http://50.7.218.42:8278/ctient/playlist.m3u8?tid=m6780c60bd34a13540795&ct=17874&tsum=06089e289a460b0685447b7656d550e3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "中天亞洲",
+            "num": "00145",
+            "urllist": "http://50.7.218.42:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "JET綜合",
+            "num": "00146",
+            "urllist": "http://50.7.218.42:8278/jettv_japan/playlist.m3u8?tid=mec9806b42012&ct=18335&tsum=e4518647627cab22a9faca0710d987ec"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "年代新聞",
+            "num": "00147",
+            "urllist": "http://50.7.218.42:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "東森新聞",
+            "num": "00148",
+            "urllist": "http://50.7.218.42:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS新聞",
+            "num": "00149",
+            "urllist": "http://50.7.218.42:8278/tvbs_n/playlist.m3u8?tid=m4a218f9aa395&ct=18335&tsum=363605ee081cb965cc0385c3f855a7e3"
+        },
+        {
+            "itemid": "uid0000",
+            "name": "TVBS",
+            "num": "00150",
+            "urllist"
                     "name": "凤凰资讯",
                     "urls": [
                         "http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8",
