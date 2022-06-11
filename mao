@@ -5,10 +5,10 @@
 
 
 "sites":[
-{"key":"csp_xpath___在线之家","name":"在线之家","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
-{"key":"csp_xpath___乐猪影视","name":"乐猪影视","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/lezhutv.json"},
-{"key":"csp_xpath___九四神马","name":"九四神马〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/94sm.json"},
-{"key":"csp_xpath___达龟影视","name":"达龟影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/dadagui.json"},
+{"key":"csp_xpath___在线之家","name":"【微信公众号：电视免VIP】","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/zxzj.json"},
+{"key":"csp_xpath___乐猪影视","name":"【微信公众号：电视免VIP】","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/lezhutv.json"},
+{"key":"csp_xpath___九四神马","name":"【微信公众号：电视免VIP】〔X〕","type":3,"api":"csp_XPath"      ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/94sm.json"},
+{"key":"csp_xpath___达龟影视","name":"【微信公众号：电视免VIP】","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/dadagui.json"},
 {"key":"csp_xpath___利奥影视","name":"利奥影视〔X〕","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://json.myaixixi.com/mtv/xpath/libvio.json"},
 {"key":"csp_xpath___极品影视","name":"极品影视〔X〕","type":3,"api":"csp_XPathMac"   ,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://json.myaixixi.com/mtv/xpath/jpys.json"},
 
@@ -183,10 +183,10 @@
 {"key":"海外电影","name":"海外电影(聚)","type":1,"api":"https://www.200121.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 #
 #18+
-{"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
-{"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*芒果资源","name":"*芒果资源","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-{"key":"*乐鱼资源","name":"*乐鱼资源","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"*523资源","name":"*【微信公众号：电视免VIP】","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
+{"key":"*丝袜资源","name":"*【微信公众号：电视免VIP】","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*芒果资源","name":"*【微信公众号：电视免VIP】","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"*乐鱼资源","name":"*【微信公众号：电视免VIP】","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*水蜜桃","name":"*水蜜桃","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*秀色资源","name":"*秀色资源","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*探探资源","name":"*探探资源","type":1,"api":"https://apittzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
